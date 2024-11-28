@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Duy Do",
+    "description": "",
+    "home_page_url": "https://solustars.github.io",
+    "feed_url": "https://solustars.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Duy Do"
+    },
+    "items": [
+    ]
+}

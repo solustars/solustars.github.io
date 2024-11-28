@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://solustars.github.io/sitemap.xml
